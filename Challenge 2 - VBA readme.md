@@ -9,4 +9,4 @@ The VBA script file will go through every worksheet and calculate the following
 4. Identify per quarter the biggest gainer and biggest loser
 5. identify per quarter the most traded stock (by volume)
 
-
+4 screenshots of results are provided
